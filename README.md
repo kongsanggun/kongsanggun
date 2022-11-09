@@ -2,8 +2,8 @@
 링크 🔗 : https://snom.strongtrash.com
 
 ## 백준
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rekarome)](https://solved.ac/rekarome)
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=rekarome)](https://solved.ac/rekarome)
+[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=rekarome)](https://solved.ac/rekarome)<br/>
+[![Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=rekarome)](https://solved.ac/rekarome)
 ## GitHub
 ![상현's GitHub stats](https://github-readme-stats.vercel.app/api?username=kongsanggun&show_icons=true&theme=tokyonight)<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kongsanggun&theme=tokyonight)](https://github.com/kongsanggun/github-readme-stats)
