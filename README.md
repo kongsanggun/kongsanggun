@@ -4,6 +4,8 @@ Web Developer / Junior Developer / Full Stack Developer <br>
 Home Page Links 🔗 : https://snom.strongtrash.com <br>
 <br>
 Blog : https://velog.io/@codingsnom/posts
+<br>
+Linkin : www.linkedin.com/in/kongsanghyean
 ***
 
 # Timeline List
