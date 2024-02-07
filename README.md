@@ -5,7 +5,9 @@ Home Page Links 🔗 : https://snom.strongtrash.com <br>
 <br>
 Blog : https://velog.io/@codingsnom/posts <br>
 <br>
-Linkin : www.linkedin.com/in/kongsanghyean
+Linkin : www.linkedin.com/in/kongsanghyean <br>
+<br>
+[Resume Link](https://drive.google.com/file/d/1NHrJ00yMaV-H5rZg5scZc70ZUIZBKu05/view?usp=sharing)
 ***
 
 # Timeline List
