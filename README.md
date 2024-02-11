@@ -7,7 +7,7 @@ Blog : https://velog.io/@codingsnom/posts <br>
 <br>
 Linkin : www.linkedin.com/in/kongsanghyean <br>
 <br>
-[Resume Link](https://drive.google.com/file/d/1NHrJ00yMaV-H5rZg5scZc70ZUIZBKu05/view?usp=sharing)
+[Resume Link](https://drive.google.com/file/d/1K35IGITHK3Wx_wOlC4Amdz4DRs_jRtKh/view?usp=sharing) 
 ***
 
 # Timeline List
