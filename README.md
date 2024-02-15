@@ -7,7 +7,7 @@ Web Developer / Junior Developer / Full Stack Developer
 <a href="https://velog.io/@codingsnom/posts"><img src="https://img.shields.io/badge/Blog-0AC18E?style=flat-square&logo=Bitdefender&logoColor=white"/></a> 
 <a href="www.linkedin.com/in/kongsanghyean"><img src="https://img.shields.io/badge/Linkedin-1758C2?style=flat-square&logo=Linkedin&logoColor=white"/>
 
-### [**:smiley: My Resume**](https://drive.google.com/file/d/1K35IGITHK3Wx_wOlC4Amdz4DRs_jRtKh/view?usp=sharing) 
+### [**:smiley: My Resume**](https://drive.google.com/file/d/1ruFCMEaxkKzftX73rmywDt0eZNG5B0Y5/view?usp=sharing)
 
 ---
 
