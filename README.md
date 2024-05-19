@@ -1,13 +1,13 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkongsanggun&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/kongsanggun)   ![GitHub followers](https://img.shields.io/github/followers/kongsanggun?style=social)
 ### **Kong Sang Hyean (공상현)** 
-Web Developer / Junior Developer / Full Stack Developer
+Web Developer / Junior Developer / Backend Developer
 ### **:link: Contact Links** 
 
 <a href="https://snom.strongtrash.com"><img src="https://img.shields.io/badge/HomePage-E3EFF7?style=flat-square&logo=googlehome&logoColor=black"/></a> 
 <a href="https://velog.io/@codingsnom/posts"><img src="https://img.shields.io/badge/Blog-0AC18E?style=flat-square&logo=Bitdefender&logoColor=white"/></a> 
 <a href="www.linkedin.com/in/kongsanghyean"><img src="https://img.shields.io/badge/Linkedin-1758C2?style=flat-square&logo=Linkedin&logoColor=white"/>
 
-### [**:smiley: My Resume**](https://drive.google.com/file/d/1ruFCMEaxkKzftX73rmywDt0eZNG5B0Y5/view?usp=sharing)
+### [**:smiley: My Resume**](https://drive.google.com/file/d/1X2snHyYfyCNbabkStAEqu84LuAv1qfkn/view?usp=drive_link)
 
 ---
 
