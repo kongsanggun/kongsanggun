@@ -7,7 +7,7 @@ Web Developer / Junior Developer / Backend Developer
 <a href="https://velog.io/@codingsnom/posts"><img src="https://img.shields.io/badge/Blog-0AC18E?style=flat-square&logo=Bitdefender&logoColor=white"/></a> 
 <a href="www.linkedin.com/in/kongsanghyean"><img src="https://img.shields.io/badge/Linkedin-1758C2?style=flat-square&logo=Linkedin&logoColor=white"/>
 
-### [**:smiley: My Resume**](https://drive.google.com/file/d/1tw91Acqo2K6Lo4A4yWxNvauGzjeKYQMc/view?usp=sharing)
+### [**:smiley: My Resume**](https://drive.google.com/file/d/15kKNy070A8FNr42l5eT1-iVhtxbdisxm/view?usp=sharing)
 ---
 
 ### **:computer: My Skill List**
