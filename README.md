@@ -1,13 +1,8 @@
 ![GitHub followers](https://img.shields.io/github/followers/kongsanggun?style=social)
 ### **Kong Sang Hyean (공상현)** 
 Web Developer / Backend Developer / Junior Developer
-
-```
-취미로 작은 프로젝트를 개발하는 것을 시작으로 개발에 대한 시야를 점차 넓이게‬ 되었습니다. 
-프론트부터 서버까지 발생하는 다양한 문제를 해결하고 있습니다. 
-여러 문제 해결 경험을 토대로 더욱 깊이 있는‬ 개발자가 되는 것이 저의 목표입니다.
-```
-### [**:smiley: My Resume**](https://drive.google.com/file/d/15kKNy070A8FNr42l5eT1-iVhtxbdisxm/view?usp=sharing)
+### [**:smiley: My Portfolio**](https://florentine-peripheral-023.notion.site/d88617cb0b9f4b7c8a8ad17b7643801c?pvs=4)
+---
 ### **:link: Contact Links** 
 
 <a href="https://snom.dev"><img src="https://img.shields.io/badge/HomePage-E3EFF7?style=flat-square&logo=googlehome&logoColor=black"/></a> 
